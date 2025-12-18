@@ -13,6 +13,12 @@ body {
     background-color: #EF233C;
 }
 
+img {
+    width: 150px;
+    height: 100%;
+    overflow: hidden;
+}
+
 .content {
     text-align: center;
     background-color: #FDFFFF;
